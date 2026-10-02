@@ -1,4 +1,4 @@
-package model.jacinto;
+package Model.jacinto;
 
 /**
  * 

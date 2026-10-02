@@ -1,4 +1,4 @@
-package model.cruces;
+package Model.cruces;
 /**
  * 
  * @author Farid Cruz
