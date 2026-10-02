@@ -2,7 +2,7 @@ package Model.Mazuelos;
 
 /**
  * 
- * @author Mazuelos Valqui Josue
+ * @author Mazuelos Josue
  *
  */
 public class ProductoModel2 {
