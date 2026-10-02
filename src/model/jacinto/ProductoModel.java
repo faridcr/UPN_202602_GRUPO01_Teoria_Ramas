@@ -8,4 +8,7 @@ package model.jacinto;
 
 public class ProductoModel {
 
+	public void calcular() {
+		
+	}
 }
