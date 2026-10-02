@@ -2,7 +2,7 @@ package entity;
 
 /**
  * 
- * @author Josue Mazuelos
+ * @author Josue Mazuelos Valqui
  *
  */
 public class Producto2 {
